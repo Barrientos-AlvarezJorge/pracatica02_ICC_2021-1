@@ -1,0 +1,18 @@
+Jorge Miguel Aaron Barrientos Alvarez
+jma.barrientos@ciencias.unam.mx
+NC: 421111666
+
+*En esta práctica teníamos que practicar los conceptos de clases y objetos.
+
+*Teníamos que hacer una clase Persona que nos permitiera modelar "personas", teniendo estas como atributos indispensables
+recuerdos (aunque comienzan sin ellos) y lo que más adoran de su mascota. Teníamos que crear varias personas y hacerlas
+interactuar contándose entre ellas lo que más adoran de sus mascotas para que así comenzaran a generar recuerdos.
+
+*También teníamos que hacer una clase Mascota que nos permitiera modelar "mascotas", teniendo estas como atributos indispensables un mejor
+amigo y un dueño. En esta clase teníamos que crear al menos 5 mascotas para asignarles un mejor amigo mutuo. Es decir, si A es mejor amigo de
+B, entonces B también es mejor amigo de A. También debíamos crear personas y asignarles a estas una mascota "mutuamente". Es decir, si
+C es dueño de la mascota M, M se hace mascota de la persona C.
+
+*En esta práctica no tuve problemas muy importantes. Sólo fueron errores de gramaticales o de sintaxis. Aunque, cabe decir, que en una
+primera instancia, justo después de leer la práctica, no tenía mucha idea de cómo hacer las cosas. Afortunadamente el profesor nos dió
+bastantes pistas y nos explicó muchas cosas que nos pudieran llegar a parecer poco claras.
